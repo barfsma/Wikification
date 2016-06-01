@@ -1,0 +1,97 @@
+0 7 1001 Bosnian JJ 
+8 13 1002 Croat NNP PER https://en.wikipedia.org/wiki/Croats
+14 17 1003 war NN 
+18 24 1004 crimes NNS
+25 32 1005 suspect VBP
+33 41 1006 Miroslav NNP PER 
+42 47 1007 Bralo NNP PER
+48 51 1008 has VBZ
+52 59 1009 pleaded VBN
+60 63 1010 not RB
+64 70 1011 guilty JJ
+71 73 1012 to TO
+74 76 1013 21 CD
+77 83 1014 counts NNS
+84 86 1015 of IN
+87 90 1016 war NN
+91 97 1017 crimes NNS
+98 101 1018 and CC
+102 108 1019 crimes NNS
+109 116 1020 against IN
+117 125 1021 humanity NN
+126 132 1022 during IN
+133 136 1023 the DT
+137 141 1024 1993 CD
+142 154 1025 Muslim-Croat NNP 
+155 163 1026 fighting VBG
+164 166 1027 in IN
+167 185 1028 Bosnia-Herzegovina NNP COU https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina
+185 186 1029 . .
+187 190 2001 Mr. NNP PER
+191 196 2002 Bralo NNP PER
+197 205 2003 appeared VBD
+206 212 2004 before IN
+213 219 2005 United NNP ORG https://en.wikipedia.org/wiki/United_Nations
+220 227 2006 Nations NNP ORG https://en.wikipedia.org/wiki/United_Nations
+228 231 2007 war NN
+232 238 2008 crimes NNS
+239 247 2009 tribunal JJ
+248 250 2010 in IN
+251 254 2011 The DT CIT https://en.wikipedia.org/wiki/The_Hague
+255 260 2012 Hague NNP CIT https://en.wikipedia.org/wiki/The_Hague
+261 263 2013 to TO
+264 270 2014 answer VB
+271 275 2015 such JJ
+276 283 2016 charges NNS
+284 286 2017 as IN
+287 293 2018 murder NN
+293 294 2019 , ,
+295 299 2020 rape NN
+299 300 2021 , ,
+301 308 2022 torture NN
+308 309 2023 , ,
+310 313 2024 and CC
+314 321 2025 illegal JJ
+322 331 2026 detention NN
+332 334 2027 of IN
+335 344 2028 civilians NNS
+344 345 2029 . .
+346 349 3001 The DT
+350 360 3002 indictment NN
+361 365 3003 says VBZ
+366 369 3004 Mr. NNP PER
+370 375 3005 Bralo NNP PER
+376 385 3006 committed VBD
+386 389 3007 the DT
+390 396 3008 crimes NNS
+397 399 3009 as IN
+400 401 3010 a DT
+402 408 3011 member NN
+409 411 3012 of IN
+412 413 3013 a DT
+414 421 3014 Bosnian JJ
+422 427 3015 Croat NNP PER https://en.wikipedia.org/wiki/Croats
+428 435 3016 special JJ
+436 440 3017 unit NN
+441 447 3018 called VBN
+448 449 3019 " PDT
+449 452 3020 The DT ORG
+453 459 3021 Jokers NNP ORG
+459 460 3022 " NNP 
+461 465 3023 that WDT
+466 474 3024 operated VBD
+475 482 3025 against IN
+483 489 3026 Muslim NNP PER https://en.wikipedia.org/wiki/Muslim
+490 497 3027 forcers NNS
+498 500 3028 in IN
+501 508 3029 central JJ
+509 515 3030 Bosnia NNP COU https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina
+515 516 3031 . .
+517 519 4001 He PRP
+520 531 4002 voluntarily RB
+532 543 4003 surrendered VBD
+544 546 4004 to TO
+547 558 4005 authorities NNS
+559 563 4006 last JJ
+564 569 4007 month NN
+569 570 4008 . .

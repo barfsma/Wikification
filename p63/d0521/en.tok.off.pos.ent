@@ -1,0 +1,50 @@
+0 3 1001 The DT
+4 10 1002 Summer NN ENT https://en.wikipedia.org/wiki/Summer_Olympic_Games
+11 18 1003 Olympic NN ENT https://en.wikipedia.org/wiki/Summer_Olympic_Games
+19 24 1004 Games NNS ENT https://en.wikipedia.org/wiki/Summer_Olympic_Games
+25 30 1005 could MD
+31 36 1006 prove NN
+37 40 1007 the DT
+41 48 1008 winning VBG
+49 55 1009 ticket NN
+56 59 1010 for IN
+60 67 1011 foreign JJ
+68 74 1012 brands NNS
+75 82 1013 seeking VBG
+83 89 1014 access NN
+90 92 1015 to TO
+93 98 1016 China NNP COU https://en.wikipedia.org/wiki/China
+98 100 1017 's POS
+101 110 1018 lucrative JJ
+111 119 1019 consumer NN
+120 126 1020 market NN
+126 127 1021 . .
+128 137 2001 Corporate JJ
+138 149 2002 sponsorship NN
+150 152 2003 of IN
+153 156 2004 the DT
+157 164 2005 Beijing NNP ENT https://en.wikipedia.org/wiki/2008_Summer_Olympics
+165 170 2006 Games NNS ENT https://en.wikipedia.org/wiki/2008_Summer_Olympics
+171 173 2007 is VBZ
+174 181 2008 booming VBG
+181 182 2009 , ,
+183 185 2010 as IN
+186 195 2011 companies NNS
+196 200 2012 seek NN
+201 211 2013 visibility NN
+212 218 2014 before IN
+219 222 2015 1.3 CD
+223 230 2016 billion CD
+231 238 2017 Chinese JJ
+239 242 2018 and CC
+243 246 2019 the DT
+247 252 2020 world NN
+253 255 2021 at IN
+256 261 2022 large JJ
+261 262 2023 . .
+263 266 3001 Sam NNP PER
+267 274 3002 Beattie NNP PER
+275 282 3003 reports NNS
+283 286 3004 for IN
+287 290 3005 VOA NN ENT https://en.wikipedia.org/wiki/Voice_of_America
+290 291 3006 . .

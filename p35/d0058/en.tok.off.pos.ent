@@ -1,0 +1,69 @@
+0 1 1001 A DT
+2 12 1002 well-known NN
+13 23 1003 journalist NN
+24 26 1004 in NN
+27 33 1005 Gambia VB COU https://en.wikipedia.org/wiki/The_Gambia
+34 37 1006 has VB
+38 42 1007 been NN
+43 47 1008 shot NN
+48 51 1009 and DT
+52 58 1010 killed NN
+59 61 1011 in NN
+62 65 1012 the NN
+66 73 1013 capital VB
+73 74 1014 , ,
+75 81 1015 Banjul IN CIT https://en.wikipedia.org/wiki/Banjul
+81 82 1016 . .
+83 93 2001 Colleagues NNP
+94 97 2002 and DT
+98 104 2003 family VB
+105 112 2004 members NN
+113 116 2005 say VB
+117 126 2006 newspaper JJ
+127 133 2007 editor NN
+134 137 2008 and DT
+138 149 2009 news-agency JJ
+150 163 2010 correspondent NNS
+164 169 2011 Deyda NNP PER https://en.wikipedia.org/wiki/Deyda_Hydara
+170 176 2012 Hydara NNP PER https://en.wikipedia.org/wiki/Deyda_Hydara
+177 181 2013 died NN
+182 184 2014 at DT
+185 188 2015 the NN
+189 193 2016 spot NN
+194 199 2017 where NN
+200 202 2018 he NN
+203 206 2019 was VB
+207 213 2020 gunned NN
+214 218 2021 down NN
+219 224 2022 after DT
+225 232 2023 leaving NN
+233 237 2024 work NN
+238 242 2025 late NN
+243 251 2026 Thursday NNP
+251 252 2027 . .
+253 255 3001 No NNP
+256 264 3002 attacker DT
+265 268 3003 was VB
+269 279 3004 identified NN
+279 280 3005 . .
+281 284 4001 Mr. NNP PER https://en.wikipedia.org/wiki/Deyda_Hydara
+285 291 4002 Hydara NNP PER https://en.wikipedia.org/wiki/Deyda_Hydara
+292 295 4003 was VB
+296 298 4004 an DT
+299 305 4005 editor NN
+306 309 4006 for NN
+310 313 4007 the NN
+314 323 4008 newspaper JJ
+324 327 4009 The NNP ENT https://en.wikipedia.org/wiki/The_Point_(the_Gambia)
+328 333 4010 Point NNP ENT https://en.wikipedia.org/wiki/The_Point_(the_Gambia)
+334 337 4011 and DT
+338 339 4012 a DT
+340 353 4013 correspondent NNS
+354 357 4014 for NN
+358 361 4015 the NN
+362 368 4016 French NNP
+369 373 4017 news JJ
+374 380 4018 agency DT
+380 381 4019 , ,
+382 385 4020 AFP DT ORG https://nl.wikipedia.org/wiki/Agence_France-Presse
+385 386 4021 . .

@@ -1,0 +1,89 @@
+0 7 1001 Israeli JJ 0
+8 15 1002 doctors NNS 0
+16 19 1003 say VB 0
+20 23 1004 the DT 0
+24 33 1005 condition NN 0
+34 36 1006 of IN 0
+37 43 1007 former JJ 0
+44 49 1008 Prime NNP 0
+50 58 1009 Minister NNP 0
+59 64 1010 Ariel NN PER https://en.wikipedia.org/wiki/Ariel_Sharon
+65 71 1011 Sharon NN PER https://en.wikipedia.org/wiki/Ariel_Sharon
+72 75 1012 has VBZ 0
+76 88 1013 deteriorated VBN 0
+89 93 1014 more RBR 0
+94 98 1015 than IN 0
+99 102 1016 six CD 0
+103 109 1017 months NNS 0
+110 115 1018 after IN 0
+116 118 1019 he PRP 0
+119 123 1020 fell VBD 0
+124 128 1021 into IN 0
+129 130 1022 a DT 0
+131 135 1023 coma NN 0
+135 136 1024 . . 0
+137 138 2001 A DT 0
+139 148 2002 spokesman NN 0
+149 152 2003 for IN 0
+153 156 2004 the DT 0
+157 165 2005 hospital NN 0
+166 174 2006 treating VBG 0
+175 178 2007 Mr. NNP PER https://en.wikipedia.org/wiki/Ariel_Sharon
+179 185 2008 Sharon NN PER https://en.wikipedia.org/wiki/Ariel_Sharon
+186 190 2009 says VBZ 0
+191 195 2010 over IN 0
+196 199 2011 the DT 0
+200 204 2012 past NN 0
+205 208 2013 two CD 0
+209 213 2014 days NNS 0
+213 214 2015 , , 0
+215 222 2016 doctors NNS 0
+223 227 2017 have VB 0
+228 238 2018 identified VBN 0
+239 240 2019 a DT 0
+241 254 2020 deterioration NN 0
+255 257 2021 in IN 0
+258 261 2022 his PRP$ 0
+262 268 2023 kidney NN 0
+269 277 2024 function NN 0
+278 281 2025 and CC 0
+282 289 2026 changes NNS 0
+290 292 2027 in IN 0
+293 298 2028 brain NN 0
+299 305 2029 tissue NN 0
+305 306 2030 . . 0
+307 310 3001 The DT 0
+311 319 3002 hospital NN 0
+320 322 3003 in IN 0
+323 326 3004 Tel NN CIT https://en.wikipedia.org/wiki/Tel_Aviv
+327 331 3005 Aviv NN CIT https://en.wikipedia.org/wiki/Tel_Aviv
+332 336 3006 says VBZ 0
+337 344 3007 doctors NNS 0
+345 348 3008 are VBP 0
+349 357 3009 carrying VBG 0
+358 361 3010 out IN 0
+362 366 3011 more RBR 0
+367 372 3012 tests NNS 0
+373 375 3013 to TO 0
+376 385 3014 determine NN 0
+386 389 3015 the DT 0
+390 401 3016 appropriate NN 0
+402 411 3017 treatment NN 0
+412 415 3018 for IN 0
+416 419 3019 Mr. NNP PER https://en.wikipedia.org/wiki/Ariel_Sharon
+420 426 3020 Sharon NN PER https://en.wikipedia.org/wiki/Ariel_Sharon
+426 427 3021 . . 0
+428 430 4001 He PRP 0
+431 435 4002 went VBD 0
+436 440 4003 into IN 0
+441 444 4004 the DT 0
+445 449 4005 coma NN 0
+450 455 4006 after IN 0
+456 465 4007 suffering VBG 0
+466 467 4008 a DT 0
+468 475 4009 massive JJ 0
+476 481 4010 brain NN 0
+482 492 4011 hemorrhage NN 0
+493 500 4012 January NNP 0
+501 502 4013 4 CD 0
+502 503 4014 . . 0

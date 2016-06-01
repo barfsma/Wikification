@@ -1,0 +1,92 @@
+0 1 1001 A DT
+2 8 1002 strong NN
+9 19 1003 earthquake VB
+20 24 1004 that NN
+25 32 1005 rattled VB
+33 45 1006 southeastern NN
+46 52 1007 Turkey NNP COU https://en.wikipedia.org/wiki/Turkey
+53 59 1008 Monday NNP
+60 63 1009 has VB
+64 71 1010 injured NN
+72 74 1011 at DT
+75 80 1012 least NN
+81 83 1013 37 CD
+84 90 1014 people NN
+91 96 1015 while NN
+97 104 1016 causing VB
+105 110 1017 minor NN
+111 117 1018 damage VB
+118 120 1019 to NN
+121 130 1020 buildings NN
+130 131 1021 . .
+132 135 2001 The NNP ORG https://en.wikipedia.org/wiki/Kandilli_Observatory
+136 143 2002 Kandill NNP ORG https://en.wikipedia.org/wiki/Kandilli_Observatory
+144 155 2003 Observatory NNP ORG https://en.wikipedia.org/wiki/Kandilli_Observatory
+156 158 2004 in NN
+159 167 2005 Istanbul PRP CIT https://en.wikipedia.org/wiki/Istanbul
+168 172 2006 says VB
+173 174 2007 a DT
+175 186 2008 preliminary NN
+187 195 2009 estimate NN
+196 198 2010 of NN
+199 202 2011 the NN
+203 208 2012 quake NN
+208 210 2013 's POS
+211 220 2014 magnitude VB
+221 224 2015 was VB
+225 229 2016 5.7. CD
+230 232 2017 It PRP
+233 236 2018 was VB
+237 245 2019 centered NNS
+246 250 2020 near RB
+251 254 2021 the NN
+255 259 2022 town NN
+260 262 2023 of NN
+263 271 2024 Karliova NNP CIT https://en.wikipedia.org/wiki/Karl%C4%B1ova
+272 274 2025 in NN
+275 281 2026 Bingol NNP COU https://en.wikipedia.org/wiki/Bing%C3%B6l_Province
+282 290 2027 province NN COU
+290 291 2028 . .
+292 299 3001 Turkish NNP
+300 309 3002 officials JJ
+310 314 3003 have VB
+315 319 3004 sent NN
+320 326 3005 rescue NN
+327 332 3006 teams NN
+332 333 3007 , ,
+334 339 3008 tents NN
+340 343 3009 and DT
+344 352 3010 blankets NN
+353 355 3011 to NN
+356 359 3012 the NN
+360 364 3013 area DT
+364 365 3014 . .
+366 377 4001 Earthquakes NN
+378 381 4002 are DT
+382 390 4003 frequent JJ
+391 393 4004 in NN
+394 400 4005 Turkey NNP COU https://en.wikipedia.org/wiki/Turkey
+400 401 4006 , ,
+402 407 4007 which NN
+408 412 4008 sits NN
+413 417 4009 atop DT
+418 419 4010 a DT
+420 425 4011 major VB
+426 434 4012 tectonic NN
+435 444 4013 faultline VB
+444 445 4014 . .
+446 447 5001 A DT
+448 456 5002 powerful NN
+457 462 5003 quake NN
+463 467 5004 that NN
+468 471 5005 hit NN
+472 484 5006 northwestern RB
+485 491 5007 Turkey NNP COU https://en.wikipedia.org/wiki/Turkey
+492 494 5008 in NN
+495 499 5009 1999 CD
+500 506 5010 killed NN
+507 511 5011 more NN
+512 516 5012 than NN
+517 523 5013 17,000 CD
+524 530 5014 people NN
+530 531 5015 . .

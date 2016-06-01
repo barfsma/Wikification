@@ -1,0 +1,55 @@
+0 5 1001 Heavy NNP
+6 11 1002 rains VB
+12 14 1003 in NN
+15 21 1004 Brazil NNP COU https://en.wikipedia.org/wiki/Brazil
+22 26 1005 have VB
+27 33 1006 caused VB
+34 40 1007 deadly NN
+41 50 1008 mudslides NN
+51 55 1009 that NN
+56 60 1010 have VB
+61 67 1011 killed NN
+68 70 1012 at DT
+71 76 1013 least NN
+77 82 1014 seven NN
+83 89 1015 people NN
+89 90 1016 , ,
+91 97 1017 mostly NN
+98 106 1018 children JJ
+106 107 1019 . .
+108 119 2001 Authorities DT
+120 123 2002 say VB
+124 127 2003 the NN
+128 135 2004 victims NN
+136 141 2005 lived NN
+142 144 2006 in NN
+145 146 2007 a DT
+147 157 2008 shantytown NN
+158 160 2009 in NN
+161 164 2010 the NN
+165 175 2011 industrial NN
+176 182 2012 suburb NN
+183 185 2013 of NN
+186 189 2014 Sao VB CIT https://en.wikipedia.org/wiki/S%C3%A3o_Bernardo_do_Campo
+190 198 2015 Bernardo NNP CIT https://en.wikipedia.org/wiki/S%C3%A3o_Bernardo_do_Campo
+199 201 2016 do NN CIT https://en.wikipedia.org/wiki/S%C3%A3o_Bernardo_do_Campo
+202 207 2017 Campo VB CIT https://en.wikipedia.org/wiki/S%C3%A3o_Bernardo_do_Campo
+207 208 2018 , ,
+209 213 2019 near RB
+214 217 2020 the NN https://en.wikipedia.org/wiki/S%C3%A3o_Paulo
+218 222 2021 city NN https://en.wikipedia.org/wiki/S%C3%A3o_Paulo
+223 225 2022 of NN https://en.wikipedia.org/wiki/S%C3%A3o_Paulo
+226 229 2023 Sao VB CIT https://en.wikipedia.org/wiki/S%C3%A3o_Paulo
+230 235 2024 Paulo VB CIT https://en.wikipedia.org/wiki/S%C3%A3o_Paulo
+235 236 2025 . .
+237 247 3001 Torrential NNP
+248 253 3002 rains VB
+254 258 3003 have VB
+259 265 3004 lashed NN
+266 269 3005 the NN COU https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)
+270 273 3006 Sao VB COU https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)
+274 279 3007 Paulo VB COU https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)
+280 286 3008 region NN COU https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)
+287 292 3009 since NN
+293 300 3010 Tuesday NNP
+300 301 3011 . .

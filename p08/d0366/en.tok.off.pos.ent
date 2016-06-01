@@ -1,0 +1,38 @@
+1 4 1001 The DT 0
+5 9 1002 U.S. NNP ORG https://en.wikipedia.org/wiki/United_States_Environmental_Protection_Agency
+10 23 1003 Environmental JJ ORG https://en.wikipedia.org/wiki/United_States_Environmental_Protection_Agency
+24 34 1004 Protection NN ORG https://en.wikipedia.org/wiki/United_States_Environmental_Protection_Agency
+35 41 1005 Agency NN ORG https://en.wikipedia.org/wiki/United_States_Environmental_Protection_Agency
+42 52 1006 celebrated VBN 0
+53 58 1007 Earth NN 0
+59 62 1008 Day NNP 0
+63 67 1009 this DT 0
+68 72 1010 week NN 0
+73 75 1011 in IN 0
+76 86 1012 Washington NNP CIT https://en.wikipedia.org/wiki/Washington,_D.C.
+87 88 1013 ( ( 0
+88 90 1014 22 CD 0
+91 96 1015 April NNP 0
+96 97 1016 ) ) 0
+98 100 1017 by IN 0
+101 111 1018 showcasing VBG 0
+112 127 1019 environmentally RB 0
+128 136 1020 friendly RB 0
+137 140 1021 new JJ 0
+141 148 1022 designs NNS 0
+149 153 1023 that IN 0
+154 159 1024 could MD 0
+160 162 1025 be VB 0
+163 166 1026 the DT 0
+167 171 1027 wave NN 0
+172 174 1028 of IN 0
+175 178 1029 the DT 0
+179 185 1030 future NN 0
+185 186 1031 . . 0
+187 195 2001 Producer NN 0
+196 202 2002 Zulima NNP PER
+203 210 2003 Palacio NN PER
+211 219 2004 prepared JJ 0
+220 224 2005 this DT 0
+225 231 2006 report NN 0
+231 232 2007 . . 0
