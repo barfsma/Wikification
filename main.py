@@ -2,6 +2,8 @@
 
 import os
 from nltk.tag.stanford import StanfordNERTagger
+from nltk.stem.wordnet import WordNetLemmatizer
+from nltk.corpus import wordnet
 
 def main():
     path = os.path.join(os.getcwd())
@@ -21,7 +23,9 @@ def readfile(rawtext):
     for line in rawtext:
         text_string += line.split()[3]
         text_string += ' '
-    nertag(text_string)
+    split_string = text_string.split() 
+    for string in split_string:
+        print(wordnet.synsets(string, pos="n"))
                     
 def nertag(text):
     st = StanfordNERTagger('stanford-ner-2015-12-09/classifiers/english.conll.4class.distsim.crf.ser.gz', 'stanford-ner-2015-12-09/stanford-ner-3.6.0.jar')
