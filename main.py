@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import os
 from nltk.tag.stanford import StanfordNERTagger
 
@@ -11,11 +13,17 @@ def readfile():
         if os.path.isdir(path) == True:
             for subfolder in os.listdir(path):
                 path = os.path.join(os.getcwd(),pfolder,subfolder)
-                rawtext = open(os.path.join(path, "en.tok.off.pos.ent"))
-                nertag(rawtext)
-            
-def nertag(rawtext):
-	st = StanfordNERTagger('stanford-ner-2014-06-16/classifiers/english.conll.4class.distsim.crf.ser.gz', 'stanford-ner-2014-06-16/stanford-ner-3.4.jar')
-	for sentence in rawtext:
-		st.tag(sentence.split()) 
+                try:
+                    rawtext = open(os.path.join(path, "en.tok.off.pos"))
+                except:
+                    pass
+                text_string = str()
+                for line in rawtext:
+                    text_string += line.split()[3]
+                    text_string += ' '
+                nertag(text_string)
+                    
+def nertag(text):
+    st = StanfordNERTagger('stanford-ner-2015-12-09/classifiers/english.conll.4class.distsim.crf.ser.gz', 'stanford-ner-2015-12-09/stanford-ner-3.6.0.jar')
+    tagged_text = st.tag(text.split())
 main()

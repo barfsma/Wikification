@@ -1,0 +1,58 @@
+0 2 1001 Up IN
+3 5 1002 to TO
+6 9 1003 two CD
+10 17 1004 million CD
+18 24 1005 people NNS
+25 34 1006 evacuated VBN
+35 38 1007 the DT
+39 43 1008 city NN
+44 46 1009 of IN
+47 50 1010 New NNP CIT https://en.wikipedia.org/wiki/New_Orleans
+51 58 1011 Orleans NNS CIT https://en.wikipedia.org/wiki/New_Orleans
+59 62 1012 and CC
+63 74 1013 surrounding VBG
+75 80 1014 areas NNS
+81 83 1015 in IN
+84 91 1016 advance NN
+92 94 1017 of IN
+95 104 1018 Hurricane NNP
+105 111 1019 Gustav NN
+111 112 1020 , ,
+113 118 1021 which WDT
+119 122 1022 was VBD
+123 126 1023 not RB
+127 133 1024 nearly RB
+134 136 1025 as IN
+137 143 1026 severe JJ
+144 146 1027 as IN
+147 156 1028 Hurricane NNP
+157 164 1029 Katrina NNP
+165 170 1030 three CD
+171 176 1031 years NNS
+177 184 1032 earlier RBR
+184 185 1033 . .
+187 190 2001 VOA NN ENT https://en.wikipedia.org/wiki/Voice_of_America
+190 192 2002 's POS
+193 198 2003 Barry NNP PER
+199 203 2004 Wood NN PER
+204 206 2005 in IN
+207 210 2006 New NNP CIT https://en.wikipedia.org/wiki/New_Orleans
+211 218 2007 Orleans NNS CIT https://en.wikipedia.org/wiki/New_Orleans
+219 224 2008 tells NNS
+225 227 2009 us PRP
+228 233 2010 about IN
+234 235 2011 a DT
+236 242 2012 French JJ
+243 250 2013 Quarter NN
+251 256 2014 hotel NN
+257 261 2015 that IN
+262 265 2016 for IN
+266 275 2017 traveling VBG
+276 287 2018 journalists NNS
+288 296 2019 provided VBN
+297 304 2020 welcome NN
+305 312 2021 shelter NN
+313 317 2022 from IN
+318 321 2023 the DT
+322 327 2024 storm NN
+327 328 2025 . .

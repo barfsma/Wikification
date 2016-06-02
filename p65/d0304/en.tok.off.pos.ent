@@ -1,0 +1,89 @@
+0 3 1001 The DT
+4 10 1002 United NNP ORG https://en.wikipedia.org/wiki/World_Meteorological_Organization
+11 18 1003 Nations NNS ORG https://en.wikipedia.org/wiki/World_Meteorological_Organization
+19 26 1004 weather NN ORG https://en.wikipedia.org/wiki/World_Meteorological_Organization
+27 33 1005 agency NN ORG https://en.wikipedia.org/wiki/World_Meteorological_Organization
+34 38 1006 says VBZ
+39 43 1007 2010 CD
+44 46 1008 is VBZ
+47 50 1009 set NN
+51 53 1010 to TO
+54 56 1011 be VB
+57 60 1012 one CD
+61 63 1013 of IN
+64 67 1014 the DT
+68 73 1015 three CD
+74 81 1016 warmest JJS
+82 87 1017 years NNS
+88 90 1018 on IN
+91 97 1019 record NN
+97 98 1020 , ,
+99 102 1021 and CC
+103 111 1022 possibly RB
+112 115 1023 the DT
+116 123 1024 warmest JJS
+124 128 1025 ever RB
+128 129 1026 . .
+131 134 2001 The DT
+135 140 2002 World NN ORG https://en.wikipedia.org/wiki/World_Meteorological_Organization
+141 155 2003 Meteorological JJ ORG https://en.wikipedia.org/wiki/World_Meteorological_Organization
+156 168 2004 Organization NN ORG https://en.wikipedia.org/wiki/World_Meteorological_Organization
+169 173 2005 says VBZ
+174 177 2006 the DT
+178 182 2007 past NN
+183 185 2008 10 CD
+186 191 2009 years NNS
+191 192 2010 , ,
+193 202 2011 2001-2010 JJ
+202 203 2012 , ,
+204 208 2013 have VB
+209 213 2014 also RB
+214 217 2015 set NN
+218 219 2016 a DT
+220 223 2017 new JJ
+224 230 2018 record NN
+231 234 2019 for IN
+235 238 2020 the DT
+239 246 2021 warmest JJS
+247 253 2022 decade NN
+253 254 2023 , ,
+255 259 2024 with IN
+260 263 2025 the DT
+264 271 2026 highest JJS
+272 281 2027 worldwide NN
+282 294 2028 temperatures NNS
+295 300 2029 since IN
+301 308 2030 records NNS
+309 314 2031 began VBD
+315 317 2032 in IN
+318 322 2033 1850 CD
+322 323 2034 . .
+325 328 3001 The DT
+329 332 3002 WMO NN ORG https://en.wikipedia.org/wiki/World_Meteorological_Organization
+333 341 3003 released VBN
+342 345 3004 the DT
+346 350 3005 data NNS
+351 359 3006 Thursday NNP
+360 362 3007 at IN
+363 367 3008 U.N. NNP
+368 375 3009 climate NN
+376 382 3010 change NN
+383 388 3011 talks NNS
+389 391 3012 in IN
+392 398 3013 Cancun NN CIT https://en.wikipedia.org/wiki/Canc%C3%BAn
+398 399 3014 , ,
+400 406 3015 Mexico NNP COU https://en.wikipedia.org/wiki/Mexico
+406 407 3016 . .
+409 416 4001 Figures NNS
+417 420 4002 for IN
+421 429 4003 November NNP
+430 433 4004 and CC
+434 442 4005 December NNP
+443 447 4006 will MD
+448 450 4007 be VB
+451 459 4008 factored VBN
+460 462 4009 in IN
+463 468 4010 early RB
+469 473 4011 next JJ
+474 478 4012 year NN
+478 479 4013 . .

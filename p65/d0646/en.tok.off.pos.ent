@@ -1,0 +1,87 @@
+0 6 1001 Police NNS
+7 9 1002 in IN
+10 20 1003 Mauritania NN COU https://en.wikipedia.org/wiki/Mauritania
+21 24 1004 say VB
+25 33 1005 security NN
+34 40 1006 forces NNS
+41 45 1007 have VB
+46 54 1008 arrested VBN
+55 58 1009 the DT
+59 66 1010 leaders NNS
+67 69 1011 of IN
+70 71 1012 a DT
+72 81 1013 terrorist NN
+82 86 1014 cell NN
+87 91 1015 with IN
+92 99 1016 alleged VBN
+100 105 1017 links NNS
+106 108 1018 to TO
+109 117 1019 al-Qaida NN ORG https://en.wikipedia.org/wiki/Al-Qaeda
+117 118 1020 . .
+119 122 2001 The DT
+123 132 2002 detainees NNS
+133 136 2003 are VBP
+137 141 2004 said VBD
+142 144 2005 to TO
+145 147 2006 be VB
+148 157 2007 prominent NN
+158 165 2008 leaders NNS
+166 168 2009 in IN
+169 172 2010 the DT
+173 182 2011 guerrilla NN
+183 188 2012 group NN
+188 189 2013 , ,
+190 198 2014 Salafist NN ORG https://en.wikipedia.org/wiki/Al-Qaeda_in_the_Islamic_Maghreb
+199 204 2015 Group NNP ORG https://en.wikipedia.org/wiki/Al-Qaeda_in_the_Islamic_Maghreb
+205 208 2016 for IN ORG https://en.wikipedia.org/wiki/Al-Qaeda_in_the_Islamic_Maghreb
+209 218 2017 Preaching VBG ORG https://en.wikipedia.org/wiki/Al-Qaeda_in_the_Islamic_Maghreb
+219 222 2018 and CC ORG https://en.wikipedia.org/wiki/Al-Qaeda_in_the_Islamic_Maghreb
+223 229 2019 Combat NN ORG https://en.wikipedia.org/wiki/Al-Qaeda_in_the_Islamic_Maghreb
+229 230 2020 . .
+231 232 3001 A DT
+233 242 3002 statement NN
+243 247 3003 from IN
+248 251 3004 the DT
+252 260 3005 national JJ
+261 267 3006 police NNS
+268 272 3007 says VBZ
+273 278 3008 seven CD
+279 285 3009 people NNS
+286 290 3010 were VBD
+291 299 3011 arrested VBN
+300 307 3012 earlier RBR
+308 312 3013 this DT
+313 317 3014 week NN
+318 320 3015 as IN
+321 325 3016 they PRP
+326 334 3017 returned VBN
+335 339 3018 from IN
+340 343 3019 the DT
+344 349 3020 group NN
+349 351 3021 's POS
+352 360 3022 training NN
+361 365 3023 camp NN
+366 368 3024 in IN
+369 376 3025 Algeria NNS COU https://en.wikipedia.org/wiki/Algeria
+376 377 3026 . .
+378 381 4001 The DT
+382 391 4002 detainees NNS
+392 395 4003 are VBP
+396 400 4004 said VBD
+401 403 4005 to TO
+404 406 4006 be VB
+407 412 4007 among IN
+413 414 4008 a DT
+415 420 4009 total JJ
+421 423 4010 of IN
+424 426 4011 20 CD
+427 437 4012 guerrillas NNS
+438 441 4013 who WP
+442 446 4014 were VBD
+447 451 4015 sent NN
+452 454 4016 to TO
+455 458 4017 the DT
+459 463 4018 camp NN
+464 467 4019 for IN
+468 476 4020 training NN
+476 477 4021 . .
