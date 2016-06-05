@@ -27,11 +27,11 @@ def readfile(rawtext):
         text_string += line.split()[3]
         text_string += ' '
         
-    sents, lemmas = nounLemmas(text_string)
+    nouns, sents, lemmas = nounLemmas(text_string)
     noun_dict = nounDict(sents, lemmas)
     
-    for noun in lemmas:
-        print(wikipedia.page(noun).url)
+    for c, noun in enumerate(lemmas):
+        print(nouns[c], "\t", wikipedia.page(noun).url)
     
 def nounLemmas(text):
     text = text
@@ -43,7 +43,9 @@ def nounLemmas(text):
     noun_lemmas = [lemmatizer.lemmatize(word[0], wordnet.NOUN)\
     for word in pos_tagged  if word[1] == "NOUN"]
     
-    return sents, noun_lemmas
+    nouns = [word for word in pos_tagged if word[1] == "NOUN"]
+    
+    return nouns, sents, noun_lemmas
 
 def nounDict(sents, noun_lemmas):
     noun_syn_dict = dict()
